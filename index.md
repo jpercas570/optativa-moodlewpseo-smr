@@ -50,21 +50,21 @@ Las clases comenzaron la semana del 15 de septiembre.
 
 ### UD1 - Herramientas de gestión de aprendizaje
 
-- [Acceder a la unidad](UD1%20-%20Herramientas%20de%20gesti%C3%B3n%20de%20aprendizaje/)
-- [Ver README de UD1](UD1%20-%20Herramientas%20de%20gesti%C3%B3n%20de%20aprendizaje/README.md)
-- [Ver versión para GitHub Pages de UD1](UD1%20-%20Herramientas%20de%20gesti%C3%B3n%20de%20aprendizaje/index.md)
+- [README.md de UD1](UD1%20-%20Herramientas%20de%20gesti%C3%B3n%20de%20aprendizaje/README.md)
+- [index.md de UD1](UD1%20-%20Herramientas%20de%20gesti%C3%B3n%20de%20aprendizaje/index.md)
+- [Carpeta de la unidad](UD1%20-%20Herramientas%20de%20gesti%C3%B3n%20de%20aprendizaje/)
 
 ### UD2 - Sistemas de gestión de contenidos
 
-- [Acceder a la unidad](UD2%20-%20Sistemas%20de%20gesti%C3%B3n%20de%20contenidos/)
-- [Ver README de UD2](UD2%20-%20Sistemas%20de%20gesti%C3%B3n%20de%20contenidos/README.md)
-- [Ver versión para GitHub Pages de UD2](UD2%20-%20Sistemas%20de%20gesti%C3%B3n%20de%20contenidos/index.md)
+- [README.md de UD2](UD2%20-%20Sistemas%20de%20gesti%C3%B3n%20de%20contenidos/README.md)
+- [index.md de UD2](UD2%20-%20Sistemas%20de%20gesti%C3%B3n%20de%20contenidos/index.md)
+- [Carpeta de la unidad](UD2%20-%20Sistemas%20de%20gesti%C3%B3n%20de%20contenidos/)
 
 ### UD3 - Posicionamiento SEO y JS
 
-- [Acceder a la unidad](UD3%20-%20Posicionamiento%20SEO%20y%20JS/)
-- [Ver README de UD3](UD3%20-%20Posicionamiento%20SEO%20y%20JS/README.md)
-- [Ver versión para GitHub Pages de UD3](UD3%20-%20Posicionamiento%20SEO%20y%20JS/index.md)
+- [README.md de UD3](UD3%20-%20Posicionamiento%20SEO%20y%20JS/README.md)
+- [index.md de UD3](UD3%20-%20Posicionamiento%20SEO%20y%20JS/index.md)
+- [Carpeta de la unidad](UD3%20-%20Posicionamiento%20SEO%20y%20JS/)
 
 ---
 
