@@ -53,6 +53,25 @@ El módulo se organiza en varias unidades que permiten avanzar de forma progresi
 
 ---
 
+## Cronograma del módulo
+
+El módulo tiene una carga total de 63 horas distribuidas a lo largo del curso escolar. Las clases comenzaron la semana del 15 de septiembre, y la organización temporal se realiza de la siguiente manera:
+
+| Unidad didáctica | Horas | Periodo del curso |
+|---|---:|---|
+| UD1 - Herramientas de gestión de aprendizaje | 23 horas | Primer trimestre |
+| UD2 - Sistemas de gestión de contenidos | 30 horas | Primer y segundo trimestre |
+| UD3 - Posicionamiento SEO y JS | 10 horas | Tercer trimestre |
+
+La asignatura se imparte con una dedicación semanal de 3 horas:
+
+- Lunes: 1 hora
+- Viernes: 2 horas
+
+Esto permite distribuir el trabajo de forma gradual, combinando clases de introducción, explicación y práctica aplicada. La secuencia temporal está pensada para que el alumnado avance desde la administración de plataformas educativas hacia la gestión de contenidos digitales y, finalmente, a la publicación y optimización de recursos web.
+
+---
+
 ## Metodología didáctica. Tipos de actividades
 
 La metodología será activa, práctica y orientada a la resolución de tareas reales relacionadas con la administración y gestión de contenidos digitales.
